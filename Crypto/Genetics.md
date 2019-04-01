@@ -3,9 +3,9 @@
 
 ![gen](gen.png)
 
-##Difficulty level: Easy(:P)
+## Difficulty level: Easy(:P)
 
-##Writeup:
+## Writeup:
   The name Genetics itself suggests it has to do something with Biology!!ATCG reminds us of DNA base pairs.
   The encoded string given was:
   
